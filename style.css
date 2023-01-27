@@ -1,0 +1,321 @@
+* {
+    margin: 0;
+}
+
+* {
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* ----------------------------------------------------Start of Poster Section--------------------------------------------------------------- */
+
+.container_1 {
+    background-image: url(images/banner/banner1.png);
+    background-repeat: no-repeat;
+}
+
+.text_1 {
+    font-size: 65px;
+    font-family: 'Work Sans', sans-serif;
+    color: black;
+    padding: 218px 200px 0px 839px;
+    font-weight: bold;
+    text-align: right;
+
+
+}
+
+.text_2 {
+
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+    text-align: right;
+    color: black;
+    padding: 24px 200px 0px 720px;
+}
+
+.button {
+    background-color: #F15B22;
+    border-radius: 10px;
+    padding: 21px 25px 20px 26px;
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 40%;
+    border-style: none;
+    color: #FFFF;
+    margin: 32px 200px 164px 1150px;
+}
+
+/* ----------------------------------------------------------End of Poster Section----------------------------------------------------------- */
+
+
+.container_2 {
+    display: flex;
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+.container_3 {}
+
+
+.img_1 {
+    padding: 133px 0px 0px 0px;
+}
+
+.container_4 {
+    padding: 32% 10% 10% 10%;
+
+}
+
+.text_3 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 0px 0px 24px 0px;
+}
+
+.text_4 {
+    padding: 0px 0px 16px 0px;
+}
+
+.list_1 {
+    padding: 0px 0px 0px 15px;
+
+}
+
+/* ----------------------------------------------------------------------My plans------------------------------------------------------------------------------------- */
+
+.container_5 {
+
+    max-width: 1140px;
+    margin: 130px auto;
+
+}
+
+.myplans {
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.plans {
+    display: flex;
+    justify-content: center;
+    margin-top: 56px;
+    gap: 15%;
+
+
+}
+
+.plans_text_1 {
+    display: flex;
+}
+
+.plan_1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 16px;
+    padding-right: 5%;
+    padding-left: 5%;
+
+
+}
+
+.plan_2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 16px;
+    padding-right: 9%;
+    padding-left: 2%;
+
+}
+
+.plan_3 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 16px;
+    padding-right: 9%;
+
+}
+
+.plan_4 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 16px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.plans_text_2 {
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+
+
+}
+
+.plan_5 {
+
+    font-size: 25px;
+    margin-top: 16px;
+    padding-left: 2%;
+
+}
+
+.plan_6 {
+
+    font-size: 25px;
+    margin-top: 16px;
+    padding-left: 2%;
+
+}
+
+.plan_7 {
+
+    font-size: 25px;
+    margin-top: 16px;
+    padding-left: 2%;
+
+}
+
+.plan_8 {
+
+    font-size: 25px;
+    margin-top: 16px;
+}
+
+/*------------------------gradient section--------------------------*/
+.container_6 {
+    background-image: linear-gradient(to right, #F15B22, rgb(227, 208, 208));
+    ;
+    max-width: 1140px;
+    background-position: center;
+    font-family: 'Work Sans', sans-serif;
+    background-repeat: no-repeat;
+    margin: 130px 230px 130px 230px;
+    border-radius: 10px;
+
+}
+
+.text_grad {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    margin: 0px 617px 0px 64px;
+    padding-top: 60px;
+
+
+
+}
+
+.button_2 {
+    font-size: 20px;
+    padding: 21px 36px 20px 36px;
+    margin: 24px 0px 60px 64px;
+    border-radius: 10px;
+    color: #F15B22;
+    border: none;
+
+}
+
+/*-------------------------------- footer ------------------------*/
+.foot {
+    display: flex;
+    background-color: black;
+
+}
+
+.container_7 {
+    color: white;
+    padding: 130px 450px 130px 230px;
+
+}
+
+.f_text_1 {
+    font-size: 45px;
+
+}
+
+.f_text_2 {
+    margin-top: 16px;
+}
+
+
+.f_text_3 {
+    margin-top: 24px;
+
+}
+
+
+.f_text_4 {
+    margin-top: 16px;
+
+}
+
+.icon {
+    display: flex;
+    gap: 10%;
+    margin-top: 32px;
+
+}
+
+.icon_1 {}
+
+.icon_2 {}
+
+.icon_3 {}
+
+
+
+
+
+
+
+
+.container_8 {
+    color: white;
+
+
+}
+
+.f_text_5 {
+    padding: 130px 431px 31px 0px;
+    font-size: 25px;
+
+}
+
+.f_input {
+    padding: 20px 150px 20px 20px;
+    font-size: 18px;
+    border-color: white;
+    background-color: black;
+    border-radius: 10px;
+    margin-bottom: 16px;
+
+
+}
+
+.button_3 {
+    padding: 20px 36px 20px 36px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: #F15B22;
+
+}
